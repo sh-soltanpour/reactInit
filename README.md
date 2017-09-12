@@ -1,1 +1,1 @@
-Cerberus
+Blank react + react native project with redux structure ; Ready to clone and start a new project.(Program logic is shared between web and native but UI is seperated)
